@@ -1,0 +1,7 @@
+.centered-h1 {
+    text-align: center;
+  }
+  
+  .centered-h1:hover {
+    color: blue;
+  }
